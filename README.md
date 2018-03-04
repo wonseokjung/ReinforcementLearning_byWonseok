@@ -28,9 +28,9 @@ deep learning 프레임워크로는 Tensorflow 또는  Kears를 사용하였다.
  실습:
 . Dynamic programming
 
-* Policy Evaluation
-* Policy Iteration
-* Value Iteration
+* Dynamic programming Policy Evaluation
+* Dynamic programming Policy Iteration
+* Dynamic programming Value Iteration
 
 3. MonteCarlo 
 
@@ -42,9 +42,10 @@ deep learning 프레임워크로는 Tensorflow 또는  Kears를 사용하였다.
  * 
  실습:
  * Get familiar with the Blackjack environment (Blackjack-v0)
- * Implement the Monte Carlo Prediction to estimate state-action values 
- * Implement the on-policy first-visit Monte Carlo Control algorithm 
- * Implement the off-policy every-visit Monte Carlo Control using Weighted Important Sampling algorithm 
+ 
+ * Monte Carlo Prediction to estimate state-action values 
+ * on-policy first-visit Monte Carlo Control algorithm 
+ * off-policy every-visit Monte Carlo Control using Weighted Important Sampling algorithm 
  
 
 4.  Temporal-Difference Learning
@@ -71,7 +72,7 @@ deep learning 프레임워크로는 Tensorflow 또는  Kears를 사용하였다.
  
  실습: 
  * Get familiar with the Mountain Car Playground
- * Solve Mountain Car Problem using Q-Learning with Linear Function Approximation
+ * Q-Learning with Value Function Approximation
 
 6. Deep-Q-Learning
  이론:
