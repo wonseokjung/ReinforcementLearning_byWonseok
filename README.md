@@ -19,7 +19,7 @@ deep learning 프레임워크로는 Tensorflow 또는  Kears를 사용하였다.
  실습 : 
  
  * openAI tutorial
- https://gym.openai.com/docs/
+https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
  
 
 2. Markov Decision Process
