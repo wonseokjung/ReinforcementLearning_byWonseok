@@ -31,7 +31,7 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
  
  실습:
 
-. Dynamic programming
+## 3. Dynamic programming
 
 * Dynamic programming Policy Evaluation
 
@@ -39,7 +39,7 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
 
 * Dynamic programming Value Iteration
 
-## 3. MonteCarlo 
+## 4. MonteCarlo 
 
  이론:
  * https://wonseokjung.github.io//reinforcementlearning/update/MonteCarlomethod/
@@ -62,7 +62,7 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
  * off-policy every-visit Monte Carlo Control using Weighted Important Sampling algorithm 
  
 
-## 4. Temporal-Difference Learning
+## 5. Temporal-Difference Learning
 
  이론: 
 
@@ -85,7 +85,7 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
  
  * Implement Q-Learning in Python 
 
-## 5. Function Approximation
+## 6. Function Approximation
  
  이론: 
  
@@ -99,7 +99,7 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
  
  * Q-Learning with Value Function Approximation
 
-## 6. Deep-Q-Learning
+## 7. Deep-Q-Learning
 
  이론:
  
@@ -125,7 +125,7 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
  
   https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
 
-## 7. Policy Gradient Methods
+## 8. Policy Gradient Methods
 
  이론:
  
