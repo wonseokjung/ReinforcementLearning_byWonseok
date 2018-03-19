@@ -33,11 +33,16 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
 
 ## 3. Dynamic programming
 
+이론:
+
 * Dynamic programming Policy Evaluation
 
 * Dynamic programming Policy Iteration
 
 * Dynamic programming Value Iteration
+
+ 실습:
+ 
 
 ## 4. MonteCarlo 
 
