@@ -43,6 +43,10 @@ https://wonseokjung.github.io//reinforcementlearning/update/openai-gym/
 
  실습:
  
+ * policy iteration - grid world
+ * value iteration  - grid world
+ 
+ 
 
 ## 4. MonteCarlo 
 
