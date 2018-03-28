@@ -23,7 +23,7 @@ EPISODES = 50000
 # 브레이크아웃에서의 DQN 에이전트
 class DQNAgent:
     def __init__(self, action_size):
-        self.render = False
+        self.render = True
         self.load_model = False
         # 상태와 행동의 크기 정의
         self.state_size = (84, 84, 4)
