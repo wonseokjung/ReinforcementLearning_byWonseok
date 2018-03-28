@@ -13,13 +13,21 @@
 ### Atari 설치법
 
 $ pip install Pillow
+
 $ pip install numpy
+
 $ pip install tensorflow==1.0.0
+
 $ pip install keras==2.0.3
+
 $ pip install matplotlib
+
 $ pip install h5py
+
 $ pip install gym
+
 $ pip install gym[atari]
+
 $ pip install -U scikit-learn
 
  텐서플로,케라스버전은 위와 동일하지 않아도 무관
