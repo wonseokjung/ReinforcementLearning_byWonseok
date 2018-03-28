@@ -193,7 +193,7 @@ if __name__ == "__main__":
         observe = env.reset()
 
         for _ in range(random.randint(1, agent.no_op_steps)):
-            observe, _, _, _ = env.step(1)
+            observe, _, _, _ = env.step(random.randint(1,3))
 
         state = pre_processing(observe)
         history = np.stack((state, state, state, state), axis=2)
