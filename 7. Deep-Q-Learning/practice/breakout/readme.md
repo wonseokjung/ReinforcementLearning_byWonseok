@@ -3,7 +3,14 @@
 
 
 
-## Atar 설치법
+
+# Break out 환경으로 DQN 강화학습 알고리즘 적용하기 ( 케라스 버전 )
+
+
+### 먼저 설치부터
+
+
+### Atari 설치법
 
 $ pip install Pillow
 $ pip install numpy
@@ -14,19 +21,8 @@ $ pip install h5py
 $ pip install gym
 $ pip install gym[atari]
 $ pip install -U scikit-learn
+
  텐서플로,케라스버전은 위와 동일하지 않아도 무관
-
-# osx
-
-sudo pip3 install -U scikit-learn
-
-windows에서 atari를설치하는방법은두가지가있습니다.mysys 를통해서설치하기:http://ishuca.tistory.com/entry/Windows%EC%97%90%EC%84%9C-gymatari-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0bash 를통해서설치하기:https://brunch.co.kr/@gnugeun/28-두방법중하나를선택하셔서설치를진행해주시면감사하겠습니다.
-
-
-# Break out 환경으로 DQN 강화학습 알고리즘 적용하기 ( 케라스 버전 )
-
-
-
 
 
 
