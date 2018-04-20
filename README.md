@@ -15,9 +15,27 @@ deep learning 프레임워크로는 Tensorflow 또는  Kears를 사용하였다.
 ## 1. 강화학습이란? 
  
  이론: 
+ https://wonseokjung.github.io//reinforcementlearning/update/RL-RL1/
+ 
+1.Introduction
+2.강화학습
+3.강화학습의 예
+4.강화학습의 요소
  
  
- 실습 : 
+ https://wonseokjung.github.io//reinforcementlearning/update/RL-RL2/
+ 
+Multi-armed Bandits1.A k-armed Bandit Problem
+2.Action-value Method
+3.The 10-armed Testbed
+4.Incremental Implementation
+5.Tracking a Nonstationary Problem
+6.Optimistic Initial values
+7.Upper-Confidence-Bound Action Selection
+8.Gradient Bandit Algorithms
+
+
+실습 : 
  
  
  * openAI tutorial
