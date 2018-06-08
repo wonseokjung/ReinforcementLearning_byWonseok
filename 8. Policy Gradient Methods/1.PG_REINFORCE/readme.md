@@ -1,0 +1,3 @@
+- Policy gradient 개념
+- REINFORCE 알고리즘
+- REINFORCE 알고리즘 With baseline
